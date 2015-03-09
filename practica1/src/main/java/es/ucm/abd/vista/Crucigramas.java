@@ -9,10 +9,10 @@ import javax.swing.JTextField;
 import javax.swing.JButton;
 import javax.swing.JTextArea;
 
-public class Crucigrama extends JFrame{
+public class Crucigramas extends JFrame{
 	private JTextField tfPalabra;
 
-	public Crucigrama() {
+	public Crucigramas() {
 
 		getContentPane().setLayout(null);
 		
